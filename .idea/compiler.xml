@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="BD" target="17" />
+      <module name="BD.main" target="17" />
+      <module name="BD.test" target="17" />
       <module name="StartGradle" target="17" />
       <module name="StartGradle.main" target="17" />
       <module name="StartGradle.test" target="17" />
